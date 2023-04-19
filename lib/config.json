@@ -1,0 +1,5 @@
+{
+    "TOKEN_SECRET": "f440cc5e-0126-47a5-9e52-9feff6235254",
+    "HOSTNAME": "localhost:8000",
+    "TOKEN_VALIDITY": "30d"
+}
